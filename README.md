@@ -18,4 +18,4 @@ My game development learning journey
 - 个人Demo项目
 
 ## 目标
-加入华中科技大学联创团队Game组，和优秀的人一起做游戏。
+成为有趣的人，和优秀的人一起做游戏。
